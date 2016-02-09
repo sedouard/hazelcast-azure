@@ -1,4 +1,5 @@
 .clover/
+.mavenpasskey
 target/
 .project
 .classpath
